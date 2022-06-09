@@ -1,5 +1,5 @@
 # Ai-generative-Art
-List of tools and ressources for generative and ai art
+*List of tools and ressources for generative and ai art*
 
 Prompt Engineering
 https://matthewmcateer.me/blog/clip-prompt-engineering/
