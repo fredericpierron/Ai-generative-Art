@@ -1,5 +1,6 @@
 ---
 title: Intelligence artificielle et art génératif
+layout: default
 ---
 
 # Ai-generative-Art
