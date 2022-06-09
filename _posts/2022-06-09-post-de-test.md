@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Livres"
-tag: books
+title:  "Books to read about generative art"
+date: 2022-06-09
+categories: books
 ---
 
 # Books about generative art
