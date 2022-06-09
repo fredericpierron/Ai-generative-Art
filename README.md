@@ -25,3 +25,9 @@ http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf
     {% endfor %}
   </ul>
 {% endfor %}
+
+{% if page.show_sidebar %}
+  <div class="sidebar">
+    sidebar content
+  </div>
+{% endif %}
