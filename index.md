@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Intelligence artificielle et art génératif"
-permalink: /
+title: Intelligence artificielle et art génératif
 ---
 
 # Ai-generative-Art
