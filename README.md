@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Intelligence artificielle et art génératif"
-permalink: https://fredericpierron.github.io/index.html
+permalink: https://fredericpierron.github.io/Ai-generative-Art/index.html
 ---
 
 # Ai-generative-Art
