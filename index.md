@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Intelligence artificielle et art génératif
 ---
 
