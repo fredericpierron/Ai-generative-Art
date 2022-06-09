@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Books-about-generative-art"
+title:  "books-about-generative-art"
 date: 2022-06-09
 ---
 
