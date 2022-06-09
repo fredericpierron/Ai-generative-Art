@@ -16,6 +16,8 @@ Lexique des termes cinematographiques (FR/ENG)
 http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf
 
 
+## In the blog
+
 <ul>
   {% for post in site.posts %}
     <li>
