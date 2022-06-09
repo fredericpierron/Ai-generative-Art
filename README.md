@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Intelligence artificielle et art génératif"
+---
+
 # Ai-generative-Art
 *List of tools and ressources for generative and ai art*
 
