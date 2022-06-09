@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "books-about-generative-art"
+title:  "books about generative art"
 date: 2022-06-09
 ---
 
-# Books about generative art
+# books about generative art
 
 - Generative Art, a pratical guide using processing
