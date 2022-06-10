@@ -4,24 +4,24 @@ layout: default
 ---
 
 # Ai-generative-Art
-*List of tools and ressources for generative and ai art*
+*Liste d'outils et de références pour la génération d'images et de vidéos par Intelligence Artificielle*
 
-(Prompt Engineering https://matthewmcateer.me/blog/clip-prompt-engineering/()
+## Quelques outils
++ Article de fond sur le [Prompt Engineering](https://matthewmcateer.me/blog/clip-prompt-engineering/)
+Le prompt engineering, c'est l'art de dialoguer avec l'IA pour lui faire générer des images de qualité.
 
-Prompt Parrot
-https://colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc?usp=sharing
++ Prompt Parrot
+[Prompt Parrot](https://colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc) est une IA qui assiste l'ingénieur Prompt dans la création d'expressions pertinentes et qualitatives pour l'IA. 
 
-ML Art Colabs books available
-https://github.com/dvschultz/ml-art-colabs
++ [Liste de livres](https://github.com/dvschultz/ml-art-colabs) Google Colab dédié à la génération d'images par IA.
 
-Tools and Ressources for AI Art
-https://pharmapsychotic.com/tools.html
+## Ressources informatives
+Le site web [Pharmapsychotic](https://pharmapsychotic.com/tools.html) recense des outils et des ressources en anglais.
 
-Lexique des termes cinematographiques (FR/ENG)
-http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf
+Un [Lexique des termes cinematographiques](http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf) en français et leur correspondance en anglais. En transmettant des notions de plans et de cadrage, on influence la prise de vue générée par la caméra virtuelle de l'IA.
 
 
-## In the blog
+## Dans le blog
 
 <ul>
   {% for post in site.posts %}
