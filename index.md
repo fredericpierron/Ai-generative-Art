@@ -16,9 +16,9 @@ Le prompt engineering, c'est l'art de dialoguer avec l'IA pour lui faire génér
 + [Liste de livres](https://github.com/dvschultz/ml-art-colabs) Google Colab dédié à la génération d'images par IA.
 
 ## Ressources informatives
-Le site web [Pharmapsychotic](https://pharmapsychotic.com/tools.html) recense des outils et des ressources en anglais.
++ Le site web [Pharmapsychotic](https://pharmapsychotic.com/tools.html) recense des outils et des ressources en anglais.
 
-Un [Lexique des termes cinematographiques](http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf) en français et leur correspondance en anglais. En transmettant des notions de plans et de cadrage, on influence la prise de vue générée par la caméra virtuelle de l'IA.
++ Un [Lexique des termes cinematographiques](http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf) en français et leur correspondance en anglais. En transmettant des notions de plans et de cadrage, on influence la prise de vue générée par la caméra virtuelle de l'IA.
 
 
 ## Dans le blog
