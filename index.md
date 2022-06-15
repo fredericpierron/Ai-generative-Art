@@ -20,6 +20,8 @@ Le prompt engineering, c'est l'art de dialoguer avec l'IA pour lui faire génér
 
 + Un [Lexique des termes cinematographiques](http://www.cinemaparlant.com/fichesactivites/ft_lexiquefrancaisanglais.pdf) en français et leur correspondance en anglais. En transmettant des notions de plans et de cadrage, on influence la prise de vue générée par la caméra virtuelle de l'IA.
 
+## Google Collab
++ [Latent Majesty Diffusion 1.6](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
 
 ## Dans le blog
 
